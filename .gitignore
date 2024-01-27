@@ -10,7 +10,6 @@
 # Python Files
 ##############
 # setup.py working directory
-build
 # setup.py dist directory
 dist
 # Egg metadata
